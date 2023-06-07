@@ -1,2 +1,2 @@
-$ wc -l file
-cd
+#!/bin/bash
+cd ~
